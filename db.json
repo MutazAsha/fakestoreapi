@@ -1,18 +1,22 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "title": "343214",
+      "content": "4132412",
+      "id": 2
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "title": "gqer",
+      "content": "rqgwtbvwr",
+      "id": 5
+    },
+    {
+      "title": "vrwl'fp31mcl;",
+      "content": "453424",
+      "id": 6
     }
   ],
+  "comments": [],
   "profile": {
     "name": "typicode"
   }
